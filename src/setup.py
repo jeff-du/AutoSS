@@ -1,0 +1,10 @@
+# coding=gbk
+'''
+Created on 2016Äê10ÔÂ27ÈÕ
+
+@author: dqd
+'''
+
+from distutils.core import setup  
+import py2exe 
+setup(windows=["AutoSS.py"]) 
